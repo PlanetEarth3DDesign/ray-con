@@ -25,7 +25,8 @@ a img {
 </head>
 <body>
 <div id="container">
-<a href="http://go.microsoft.com/fwlink/?linkid=66138&amp;clcid=0x409"><img src="iisstart.png" alt="IIS" width="960" height="600" /></a>
+<a href="http://go.microsoft.com/fwlink/?linkid=66138&amp;clcid=0x409"><img src="
+image000000-10-e1702164685843-1024x792.jpg" alt="IIS" width="960" height="600" /></a>
 </div>
 </body>
 </html>
